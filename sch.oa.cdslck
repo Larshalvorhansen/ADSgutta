@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      larsh
+HostName                       DESKTOP-VPF4KO9
+ProcessIdentifier              7156
+ProcessCreationTime_UTC        1727086793
+ProcessCreationTime_Readable   Mon Sep 23 12:19:53 2024 Vest-Europa (sommertid)
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\larsh\MyWorkspace1_wrk\MyLibrary1_lib\%D%C_schematic\schematic\sch.oa.cdslck
+TimeEditLocked                 Mon Sep 23 12:30:34 2024 Vest-Europa (sommertid)
